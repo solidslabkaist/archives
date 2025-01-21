@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 20px;
+    margin: 30px;
     color: #333;
 }
 h1 {
@@ -26,4 +26,7 @@ footer {
     margin-top: 20px;
     font-size: 0.9em;
     color: #666;
+}
+img {
+    margin: -15px; /* 모든 이미지의 margin 제거 */
 }
