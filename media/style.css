@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 30px;
+    color: #333;
+}
+h1 {
+    color: #0056b3;
+    font-size: 22px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+a:hover {
+    text-decoration: underline;
+}
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
+img {
+    margin: -15px; /* 모든 이미지의 margin 제거 */
+}
